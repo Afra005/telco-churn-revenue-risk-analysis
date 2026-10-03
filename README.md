@@ -183,11 +183,9 @@ Encourage month-to-month customers to consider longer-term contracts, as their o
 
 The analysis shows an association between contract type and churn; it does not establish that switching contracts itself will cause churn to decrease.
 
-### 3. Prioritize Higher-Value Customers
+### 3. Target High-Value Customers with Elevated Monthly Charges
 
-Prioritize higher-value customers for retention efforts, as customers who churned had a higher average monthly charge (**$74.44**) than customers who stayed (**$61.27**).
-
-This can help retention teams focus limited resources on customers associated with higher recurring monthly charges.
+Identify customers with higher monthly charges—especially those in early-tenure, month-to-month segments—and test targeted retention offers. Churned customers had a higher average monthly charge (**$74.44**) than customers who stayed (**$61.27**), although this analysis shows an association rather than proving that higher charges cause churn.
 
 ---
 
